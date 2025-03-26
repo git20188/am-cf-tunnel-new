@@ -6,3 +6,8 @@ craig.ns.cloudflare.com
 decker.ns.cloudflare.com
 damien.ns.cloudflare.com
 dylan.ns.cloudflare.com
+##add us美国ip
+172.64.35.187
+108.162.195.187
+162.159.44.187
+##end
